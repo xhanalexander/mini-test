@@ -2,7 +2,7 @@
 
 ## Program kecil
 
-Tolong buat satu array / list dari 1 sampai 100. Print semua angka ini dalam urutan terbalik, tetapi ada beberapa peraturan : 
+Buat satu array / list dari 1 sampai 100. Print semua angka ini dalam urutan terbalik, tetapi ada beberapa peraturan : 
 1. Jangan print angka bilangan prima.
 2. Ganti angka yang dapat dibagi dengan angka 3 dengan text ___"Foo"___.
 3. Ganti angka yang dapat dibagi dengan angka 5 dengan text ___"Bar"___.
